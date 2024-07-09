@@ -39,7 +39,7 @@ A classe Moeda é abstrata e possui atributo como valor. Ela define um método a
 ### Subclasses de Moeda
 Cada subclasse de Moeda (Real, Dolar, Euro, etc.) deve implementar o método converter() de forma a realizar a conversão correta para Real. 
 
-### Considerações Finais
+## Considerações Finais
 Este projeto visa avaliar o uso correto dos conceitos de herança e polimorfismo em Java. A implementação pode ser estendida com novas funcionalidades e melhorias conforme necessário.
 
 Sinta-se à vontade para contribuir com melhorias e sugestões.
